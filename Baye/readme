@@ -1,0 +1,7 @@
+le dossier assets contient tout ce qui est fichier css et script json
+
+le dossier controlleur contient tout ce qui est traitement de formulaire de connexion et d'inscription
+
+le dossier vue contient tout ce qui est partie visible du site (l'interface graphique du site)
+
+le dossier modele contient la connexion a a base de donnees et toutes les requetes SQL (inscription et connexion d'un user)
